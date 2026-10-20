@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T02:45:45.501Z",
-  "count": 81,
+  "updatedAt": "2026-10-20T14:11:09.514Z",
+  "count": 82,
   "highSchoolCount": 3,
   "items": [
     {
@@ -1332,6 +1332,30 @@
       "daysLeft": 2,
       "srcUrl": "https://www.nps.or.kr/pnsgdnc/hiregdnc/getOHAE0004M1.do?menuId=MN24000969&pstId=ZZ202600000000001110&hmpgCd=01&hmpgBbsCd=BS20240138&sortSe=FR&pageIndex=1&searchText=&searchGbu=&pstSeCd=",
       "aplyQlfcCn": "[일반요건]\r\n- 연령·성별 등 제한 없음(단, 임용일 기준 공단 정년(60세) 이상자는 제외)\r\n- 대한민국 국적을 보유한 사람\r\n- 공단 「인사규정」 제11조의 결격사유에 해당하지 않는 사람\r\n- 임용(예정)일부터 근무가 가능한 사람\r\n\r\n[학위요건]\r\n- 사회복지학, 경영학, 행정학, 경제학 분야 석사학위 이상을 소지한 사람\r\n  * 통계·컴퓨터활용 관련 자격증 소지자 우대",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 306171,
+      "orgName": "국립공원공단",
+      "orgCode": "C0021",
+      "title": "[팔공산동부] 2026년 팔공산국립공원동부사무소 가을철 한시인력(산불감시) 직원 채용(재공고)",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-26",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "대구",
+      "ncsNm": "경비.청소,농림어업",
+      "jobTrack": "시설",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 6,
+      "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019919",
+      "aplyQlfcCn": "1. 공단「인사규정」제18조(결격사유)에 해당되지 않은 자\r\n2. 근무시작(예정)일부터 근무 가능한 자\r\n3. 그 외 전공, 학력 등 제한 없음",
       "isExcludedHireType": false
     },
     {
