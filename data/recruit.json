@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T15:57:43.893Z",
-  "count": 89,
+  "updatedAt": "2026-10-27T03:02:42.799Z",
+  "count": 91,
   "highSchoolCount": 5,
   "items": [
     {
@@ -1431,6 +1431,54 @@
       "daysLeft": 0,
       "srcUrl": "https://semas.plusrecruit.co.kr/",
       "aplyQlfcCn": "ㅇ 우리 공단 정년(만 60세)에 도래하지 않은 자로서, 성별·학력 제한 없음\r\n    * 만 58세 이상 정규직 합격자의 경우, 내규에 따라 임금피크제 적용\r\n - 단, 제한경쟁(장애)의 경우, 「장애인고용촉진 및 직업재활법」에 의해 장애인으로 등록된 자\r\n - 단, 제한경쟁(보훈)의 경우, 「국가유공자 등 예우 및 지원에 관한 법률」 등 관계 법령에 따른 취업지원대상자\r\n - 단, 제한경쟁(고졸)의 경우, 최종학력이 고등학교 졸업(예정)인 자\r\n   * 2027.2월 졸업 예정인 자는 임용일(2026.12.31.)부터 전일근무가 가능하여야 하며, 임용일 기준 만 18세 미만자(2009.1.1. 이후 출생자) 지원불가\r\n  ** 최종 학력과 관련하여 허위 사실(대졸자가 고졸학력만 제시하여 합격 등)이 확인될 경우, 불합격처리 되거나 합격 또는 임용이 취소될 수 있음\r\nㅇ 채용 후 근무지*에서 즉시 근무 가능**한 자\r\n    * 근무지 배치에 따른 숙식 및 교통비 등 미제공\r\n   ** 졸업, 재학, 이직 절차, 군 전역 등을 사유로 입사 유예(입사일 변경) 불가\r\nㅇ 공단 「인사규정」 제14조(채용결격사유), 「국가공무원법」 제33조(결격사유)에 해당하지 않는 자",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 306366,
+      "orgName": "국립공원공단",
+      "orgCode": "C0021",
+      "title": "[경주] 경주국립공원사무소 2026년 국립공원지킴이 4차(한시인력) 채용 공고",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-05",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "경북",
+      "ncsNm": "환경.에너지.안전",
+      "jobTrack": "시설",
+      "totalCount": 8,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 9,
+      "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019957",
+      "aplyQlfcCn": "- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자(아래 참조)\r\n- 연령, 전공, 학력 제한 없음\r\n- 소득ㆍ자산 기준 초과자는 참여 제한(공고문 참고)\r\n- 직접일자리사업 반복 및 중복 참여자는 참여 제한(공고문 참고)",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 306363,
+      "orgName": "국립공원공단",
+      "orgCode": "C0021",
+      "title": "[지리산전남] 2026년 하반기(3차) 국립공원지킴이 채용 공고",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-16",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "전남광주",
+      "ncsNm": "환경.에너지.안전",
+      "jobTrack": "시설",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 20,
+      "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019956",
+      "aplyQlfcCn": "가. 학력, 전공, 나이 제한 없음(만18세 이상)\r\n나. 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\r\n다. 소득, 자산 기준 초과자는 참여 제한\r\n라. 직접일자리사업 반복 및 중복참여자는 참여 제한",
       "isExcludedHireType": false
     },
     {
