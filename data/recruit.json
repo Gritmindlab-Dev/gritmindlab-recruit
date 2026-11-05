@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T16:56:51.426Z",
-  "count": 82,
+  "updatedAt": "2026-11-05T04:25:26.562Z",
+  "count": 83,
   "highSchoolCount": 6,
   "items": [
     {
@@ -390,6 +390,30 @@
       "daysLeft": 0,
       "srcUrl": "https://www.reb.or.kr/recruit",
       "aplyQlfcCn": "ㅇ 「감정평가 및 감정평가사에 관한 법률」 제11조에 따른 감정평가사 자격이 있는 자로서, 공고 마감일(’26.11.5) 기준 같은 법 시행규칙 제11조 제1항에 따른 감정평가사 실무수습을 신청하고 수료하지 않은 자\r\nㅇ 입사 예정일로부터 근무할 수 있는 사람\r\nㅇ 우리 원 「인사규정」상 채용 결격사유가 없는 사람(별첨 참조)\r\nㅇ 우리 원 「취업규칙」에 따라 정년인 만 60세 미만인 사람\r\nㅇ 남자의 경우 군필* 또는 면제인 사람\r\n    *최종합격자 발표일(’26.12.24.) 이전 전역 예정자 포함",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 306730,
+      "orgName": "근로복지공단",
+      "orgCode": "C0035",
+      "title": "[동해병원] 의료직(약사) 4급 채용 공고",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-16",
+      "hireTypeNm": "정규직",
+      "recrutSeNm": "신입",
+      "workRgnNm": "강원",
+      "ncsNm": "보건.의료",
+      "jobTrack": "보건복지",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 11,
+      "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
+      "aplyQlfcCn": "ㅇ 채용분야 응시자격\r\n- 약사: 약사법상 약사 면허증 소지자\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\r\nㅇ 연령요건: 제한없음(단, 임용일 기준 60세 미만(정년)인 자)",
       "isExcludedHireType": false
     },
     {
