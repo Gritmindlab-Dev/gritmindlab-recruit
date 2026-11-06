@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-11-05T17:11:32.170Z",
-  "count": 73,
+  "updatedAt": "2026-11-06T04:23:26.487Z",
+  "count": 75,
   "highSchoolCount": 5,
   "items": [
+    {
+      "sn": 306769,
+      "orgName": "한국동서발전(주)",
+      "orgCode": "C0066",
+      "title": "2026년도 한국동서발전(주) 울산발전본부 대체근로자 선발",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-22",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "경력",
+      "workRgnNm": "울산",
+      "ncsNm": "기계,전기.전자,환경.에너지.안전",
+      "jobTrack": "기계",
+      "totalCount": 3,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "Y",
+      "daysLeft": 16,
+      "srcUrl": "https://matchingbank.career.co.kr/",
+      "aplyQlfcCn": "1. 연령, 학력, 전공, 성별 제한 없음\r\n2. (남성의 경우) 병역의무를 필했거나 면제된 자, 기피사실이 없는 자\r\n※ 군복무중인 경우 최종합격자 발표일 이전 전역 가능한 자 포함\r\n3. 복합발전설비 운전업무 유경험자\r\n4. 인사관리규정 제16조(신규채용자의 결격사유) 미 해당자\r\n5. 입사일부터 즉시 근무가능한 자(근로기간 및 채용일정 참고)",
+      "isExcludedHireType": false
+    },
     {
       "sn": 306325,
       "orgName": "한국남부발전(주)",
@@ -25,6 +49,30 @@
       "daysLeft": 5,
       "srcUrl": "https://kospo.machuda.kr",
       "aplyQlfcCn": "○ 연령 : 입사지원 마감일 기준 청년인 자\r\n* 청년 : 청년고용촉진 특별법 및 동법 시행령에 따라 만15세 이상 만34세 이하인 사람\r\n* 「제대군인지원에 관한 법률」 등에 의거 군 복무기간 1년 미만 1세, 1년 이상 2년 미만 2세, 2년 이상 3세 응시 연령 상한 적용\r\n○ 학력, 전공, 어학, 성별 : 제한없음\r\n○ 병역 : 병역법 제76조에서 정한 병역의무 불이행에 해당하지 않는 자, 현역의 경우 최종합격자 발표일 이전에 전역이 가능한 자\r\n○ 채용확정 후 즉시 근무가 가능한 자\r\n○ 근무지로 출퇴근이 가능한 자(※ 합숙소 및 통근버스 미제공)\r\n○ 채용제외 대상자 : 회사 인사관리규정 제10조에 해당하는 결격사유 해당자, 우리 회사 체험형인턴 유경험자\r\n※ 각종 자격 및 경력 요건 구비시점 : 공고(접수)마감일 기준\r\n\r\n※ 전형별 필수자격\r\n 1) 사회형평(장애·맞춤훈련)\r\n  - 「장애인고용촉진 및 직업재활법」에 의한 장애인 등록자\r\n  - 한국장애인고용공단 주관 교육(맞춤훈련) 수료 가능자\r\n  * 교육기간 : ‘26.12.28~‘27.1.29 (1개월)\r\n  * 교육장소 : 한국장애인고용공단 부산디지털훈련센터 (부산시 연제구 소재)(교육일정은 변동될 수 있으며, 변경시 별도 안내)\r\n  2) AI인재\r\n  - AI 관련 자격증 소지자(정보처리기사, 빅데이터분석기사, ADP(데이터분석전문가), ADsP(데이터분석준전문가), AICE Professional, AICE Associate 중 한 가지 이상 보유자)\r\n ※ 공고(접수)마감일 기준 지원자격에 부합한 경우 지원 가능\r\n\r\n※ 세부사항은 붙임 및 회사홈페이지(https://www.kospo.co.kr) 또는 온라인 접수 홈페이지(https://kospo.machuda.kr) 참조",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 306767,
+      "orgName": "한전KDN",
+      "orgCode": "C0306",
+      "title": "한전KDN(주) 울산지사 업무보조원 모집공고",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-20",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "울산",
+      "ncsNm": "정보통신",
+      "jobTrack": "IT",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 14,
+      "srcUrl": "없음",
+      "aplyQlfcCn": "1. 일반 : 학력, 연령, 외국어 제한없음\r\n2. 병역 : 병역법 제 76조에서 정한 병역의무 불이행 사실이 없는 자\r\n3. 기타\r\n- 당사 인사규정2.1.4(채용결격사유)에 해당하지 않는자(붙임1 참조)\r\n- 주민등록상 주소지가 울산, 양산, 부산 거주자\r\n4. 직종별 자격(업무보조원)\r\n- 공사 및 유지보수 관련 자료 정리 및 시스템 입력\r\n- EXCEL, HWP 등 문서정리 및 PC활용이 가능한 자",
       "isExcludedHireType": false
     },
     {
