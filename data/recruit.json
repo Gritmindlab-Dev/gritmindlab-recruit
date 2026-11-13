@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T17:26:16.632Z",
-  "count": 71,
+  "updatedAt": "2026-11-13T04:17:40.580Z",
+  "count": 73,
   "highSchoolCount": 7,
   "items": [
     {
@@ -867,6 +867,54 @@
       "daysLeft": 0,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "○ 채용분야 응시자격\r\n- 산업위생사: 산업보건지도사 또는 산업위생관리기술사 자격증 소지자로서 산업위생관리(산업)기사 이상의 자격취득 후 5년 이상 당해 업무에 근무한 경력이있는자\r\n※ 모든 전형 응시자격은 응시원서 마감일 기준\r\n○ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\r\n○ 연령요건: 연령제한 없음(단, 임용일 기준 60세 미만(정년)인 자)",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307010,
+      "orgName": "한국법무보호복지공단",
+      "orgCode": "C0152",
+      "title": "2026년 한국법무보호복지공단 개방형직위(미래전략부장) 경력경쟁채용 공고",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-30",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "경력",
+      "workRgnNm": "경북",
+      "ncsNm": "사업관리,경영.회계.사무,법률.경찰.소방.교도.국방,사회복지.종교",
+      "jobTrack": "사무",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 17,
+      "srcUrl": "https://koreha.or.kr/board/view.do?MN1=6&MN2=113&MN3=&MN=113&BRD_ID=S_Notice&BBS_IDX=2521&ETC_1=hire&REG_DATE=2026-11-13",
+      "aplyQlfcCn": "<필수요건>\r\n- 임용예정일에 근무 가능한 자\r\n- 만 18세 이상 및 만 60세 이하(공단 정년)\r\n- 남성의 경우 「병역법」에 따라 병역의무 불이행 사실이 없는 자\r\n- 성별, 학력, 거주지 제한 없음\r\n- 공단 인사규정 등에 의한 임용결격사유에 해당되지 않는 자\r\n- 현직 공무원 및 공공기관 재직자, 퇴직 후 3년 미만인 공무원 및 공공기관 근무경력자에 해당하지 않는 자\r\n  ※ 「공기업.준정부기관의 경영에 관한 지침」 제12조제5항 참조\r\n  ※ 공고문 【별첨1】 임용 결격사유\r\n\r\n<경력요건>\r\n- 다음 경력 중 1개 이상을 보유한 자\r\n① (석·박사학위) 직무 관련 분야1) 경력 2년 이상인 자\r\n② (학사학위) 직무 관련 분야 경력 3년 이상인 자\r\n③ 직무 관련 분야에서 임용예정직위(부장)에 상당하는 부서 단위 책임자 이상으로 3년 이상 근무한 경력이 있는 자\r\n④ 공공기관2) · 민법 및 상법상 법인, 특별법에 의하여 설립된 법인 등 법인체에서 직무 관련 분야 경력 12년 이상인 자\r\n1) 3p “? 담당예정직무” 중 1개 이상의 직무 경력을 보유하고 ① ~ ④ 중 1개 이상의 경력기간을 보유할 시 입사지원 가능\r\n2) 「공공기관의 운영에 관한 법률」 제4조, 제5조, 제6조에 따라 지정된 공기업 · 준정부기관 · 기타공공기관에 한함\r\n",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 306992,
+      "orgName": "한국보훈복지의료공단",
+      "orgCode": "C0203",
+      "title": "[중앙보훈병원]2027년 치과의사전공의(레지던트1년차) 채용공고",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-20",
+      "hireTypeNm": "정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "서울",
+      "ncsNm": "보건.의료",
+      "jobTrack": "보건복지",
+      "totalCount": 11,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 7,
+      "srcUrl": "https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=191258",
+      "aplyQlfcCn": "○ 응시자격\r\n1) 旣인턴수료자 및 2027년 2월 수료예정자\r\n2)공단(본원) 인사규정 제18조에 의한 결격사유에 해당하지 않는 자\r\n3) 의무사관후보생의 경우 33세 되는 해의 2월까지 수료 가능한자\r\n4)『아동·청소년의성 보호에 관한 법률』제 56 조(아동·청소년\r\n관련 기관 등에서의 취업제한 등)에 해당되지 않는 자\r\n○ 응시제한\r\n1) 타 수련병원(기관) 중복지원 및 응시는 일체 불허\r\n○ 모집분야\r\n- 레지던트 1년차 11명\r\n* 치과 보철과 : 5명\r\n* 치과 치주과 : 3명\r\n* 치과 보존과 : 3명",
       "isExcludedHireType": false
     },
     {
