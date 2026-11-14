@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:13:43.040Z",
+  "updatedAt": "2026-11-14T15:39:16.146Z",
   "count": 69,
   "highSchoolCount": 6,
   "items": [
@@ -22,7 +22,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 12,
+      "daysLeft": 11,
       "srcUrl": "https://kangwon.cairos.co.kr/kangwon",
       "aplyQlfcCn": "- 연령, 학력(신입직) 제한 없음(단, 강원랜드 정년에 의거 만 60세 미만인 자)\r\n- 병역필 또는 면제자(‘26. 12. 31. 이전 전역 가능한 자 포함, 여성은 해당 없음)\r\n- 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n- 지정된 입사일(2026년 12월 31일 예정)로부터 즉시 근무 가능한 자\r\n- 강원랜드 인사규정 상 채용 결격사유에 해당되지 않는 자(채용 결격사유 참조)\r\n- 근무지: 강원특별자치도 정선군 또는 태백시의 사내 복지시설\r\n- 경력기재 시 추후 증빙 가능한 경력만을 기재하여야 하며, 증빙 불가 시 허위사실 기재로 간주하여 합격을 취소할 수 있으며, 향후 5년간 입사지원이 불가할 수 있으니 이점 각별히 유념하시고 자격요건 충족 여부를 사전에 필히 확인하여 주시기 바랍니다.",
       "isExcludedHireType": false
@@ -46,7 +46,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "Y",
-      "daysLeft": 8,
+      "daysLeft": 7,
       "srcUrl": "https://matchingbank.career.co.kr/",
       "aplyQlfcCn": "1. 연령, 학력, 전공, 성별 제한 없음\r\n2. (남성의 경우) 병역의무를 필했거나 면제된 자, 기피사실이 없는 자\r\n※ 군복무중인 경우 최종합격자 발표일 이전 전역 가능한 자 포함\r\n3. 복합발전설비 운전업무 유경험자\r\n4. 인사관리규정 제16조(신규채용자의 결격사유) 미 해당자\r\n5. 입사일부터 즉시 근무가능한 자(근로기간 및 채용일정 참고)",
       "isExcludedHireType": false
@@ -70,7 +70,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "srcUrl": "www.kps.co.kr",
       "aplyQlfcCn": "1. 채용예정일 즉시 근무 가능한 자\r\n\r\n",
       "isExcludedHireType": false
@@ -94,7 +94,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 12,
+      "daysLeft": 11,
       "srcUrl": ".",
       "aplyQlfcCn": "○ 2026년 12월부터 근무 가능한 자",
       "isExcludedHireType": false
@@ -118,7 +118,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "srcUrl": ",",
       "aplyQlfcCn": "- 일반 : 학력, 연령, 외국어 제한 없음\r\n- 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n- 자격 : 건설업 기초 안전보건교육 이수자 또는 이수 가능자\r\n- 기타 : 당사 인사규정2.1.4(채용결격사유)에 해당하지 않는자(붙임1 참조)\r\n          주민등록상 주소지가 광주/전남지역인 자",
       "isExcludedHireType": false
@@ -142,7 +142,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "srcUrl": "없음.",
       "aplyQlfcCn": "- 자동차 운전면허증 소지자(1종 보통 이상)\r\n- 건설업 기초 안전보건교육 이수자 ",
       "isExcludedHireType": false
@@ -166,7 +166,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "srcUrl": "없음.",
       "aplyQlfcCn": "- 자동차 운전면허증 소지자(1종 보통 이상)\r\n- 건설업 기초 안전보건교육 이수자 ",
       "isExcludedHireType": false
@@ -191,7 +191,7 @@
       "isHighSchoolTrack": true,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 11,
+      "daysLeft": 10,
       "srcUrl": "https://recruit.incruit.com/koem/job",
       "aplyQlfcCn": "(공통)\r\n- 국가유공자 등 예우 및 지원에 관한 법률 등 관계 법률에 의한 취업지원대상자\r\n- 임용예정일 기준으로 15세 이상 34세 이하인 자(제대군인 응시 상한 연령 연장)\r\n\r\n1. 채용형 청년인턴(일반직 6급 전환형)\r\n\r\n- 아래 (1), (2), (3) 자격요건을 모두 갖춘 자\r\n(1) 「학사」 학위(학과·전공 무관) 이상 취득자(’27년 전기 졸업예정자 포함)\r\n(2) 「국가유공자 등 예우 및 지원에 관한 법률」 에 따른 취업지원대상자\r\n(3) 공인어학시험*(영어) 점수가 TOEIC 점수 기준으로 700점 이상인 자\r\n* 공인어학시험: 토익, 토익스피킹, 오픽, 뉴텝스, 토플(IBT), G-TELP, FLEX\r\n\r\n2. 채용형 청년인턴(일반직 7급 전환형)\r\n\r\n- 아래 (1), (2)자격요건을 모두 갖춘 자\r\n(1) 고등학교 졸업자\r\n * 고등학교 검정고시 합격자 및 대학 재학?휴학?중퇴자 포함(대학 졸업자 또는 졸업예정자, 졸업유예자 제외)\r\n(2) 「국가유공자 등 예우 및 지원에 관한 법률」 에 따른 취업지원대상자",
       "isExcludedHireType": false
@@ -215,7 +215,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": ".",
       "aplyQlfcCn": "○ 보안관제 전문기업 지정 등에 관한 공고 '기술인력의 자격기준' 초급 기술자 이상, 중급 기술자 이하\r\n※ 세부 내용은 채용공고문의 상세 내용 '6. 지원자격' 참조",
       "isExcludedHireType": false
@@ -239,7 +239,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 10,
+      "daysLeft": 9,
       "srcUrl": "없음.",
       "aplyQlfcCn": "○ 조공\r\n  - 전기 및 통신 분야 관련 업무 수행 가능자\r\n  - 운전면허 소지자(1종보통 이상)  및 1.2ㅌ톤 이상 고소작업차량 운전 가능한자\r\n    ※ 작업원 등록신청서 자격사항란에 운전면허자격 필히 기록 요함\r\n  - 건설업 기초 안전보건교육 이수자 또는 계약(작업투입)시 증빙가능자 포함",
       "isExcludedHireType": false
@@ -263,7 +263,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 9,
+      "daysLeft": 8,
       "srcUrl": "https://k-water.recruiter.co.kr",
       "aplyQlfcCn": "□ 연령, 성별, 학력 제한 없음\r\n□ 남자의 경우 병역필 또는 면제자(병역특례 근무중인 자 제외)\r\n□ 우리 공사 인사규정에 의한 결격사유가 없는 자\r\n□ 채용예정일로부터 현업 전일근무가 가능한 자",
       "isExcludedHireType": false
@@ -287,7 +287,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 11,
+      "daysLeft": 10,
       "srcUrl": "없음.",
       "aplyQlfcCn": "○ OA설비 유지보수 현장실무 경력 1년 이상자\r\n○ 운전면허증 소지자(회사차 운행)\r\n○ 건설 기초안전교육 이수자",
       "isExcludedHireType": false
@@ -311,7 +311,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 9,
+      "daysLeft": 8,
       "srcUrl": "없음",
       "aplyQlfcCn": "1. 학력, 연령, 외국어 : 제한없음\r\n2. 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n3. 자격\r\n- 자기 차량을 업무에 이용할 수 있는 자\r\n- 운전에 결격 사유가 없는 자(운전면허소지자 등)\r\n4. 기타 등 상세 사항은 모집공고문 지원 자격 참조",
       "isExcludedHireType": false
@@ -335,7 +335,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "srcUrl": "없음",
       "aplyQlfcCn": "1. 일반 : 학력, 연령, 외국어 제한없음\r\n2. 병역 : 병역법 제 76조에서 정한 병역의무 불이행 사실이 없는 자\r\n3. 기타\r\n- 당사 인사규정2.1.4(채용결격사유)에 해당하지 않는자(붙임1 참조)\r\n- 주민등록상 주소지가 울산, 양산, 부산 거주자\r\n4. 직종별 자격(업무보조원)\r\n- 공사 및 유지보수 관련 자료 정리 및 시스템 입력\r\n- EXCEL, HWP 등 문서정리 및 PC활용이 가능한 자",
       "isExcludedHireType": false
@@ -359,7 +359,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "srcUrl": ".",
       "aplyQlfcCn": "○ 다음 항목 중 1개 이상의 자격 수준을 갖춘 자\r\n - 정보통신 초급기술자(한국정보통신공사협회 기준)\r\n - 엔지니어링 초급기술자(한국엔지니어링협회 기준)\r\n※ 지원자격 상세기준 붙임1 참조\r\n○ 2026년 12월 1일부터 근무 가능한 자\r\n※ 세부 내용은 채용공고문 내 '3. 지원자격' 참조",
       "isExcludedHireType": false
@@ -383,7 +383,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 4,
+      "daysLeft": 3,
       "srcUrl": "없음.",
       "aplyQlfcCn": "- 자동차 운전면허증 소지자(1종 보통 이상)\r\n- 건설업 기초 안전보건교육 이수자 또는 이수 가능자",
       "isExcludedHireType": false
@@ -407,7 +407,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 5,
+      "daysLeft": 4,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 「장애인고용촉진 및 직업재활법 시행령」제3조에 따른 장애인\r\nㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ ’25. 1. 1. 이후 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음",
       "isExcludedHireType": false
@@ -431,7 +431,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 10,
+      "daysLeft": 9,
       "srcUrl": "https://www.geps.or.kr/notiCommunication_info_incruit/43756?curPage=1",
       "aplyQlfcCn": " ○ 응시원서 접수마감일 기준 만 18세 이상 34세 이하인 자(1991.11.25.~2008.11.24.生)\r\n -제대군인 및 사회복무요원은 복무기간에 따라 상한연령 연장\r\n   (1년미만 : 1세, 2년미만 : 2세, 2년이상 : 3세)\r\n ○ 성별, 학력, 전공 제한 없음\r\n ○ 채용예정일(’26.12.11.(금))에 즉시 근무 가능한 자\r\n ○ 공무원연금공단 인사규정에 의한 임용결격 사유가 없는 자\r\n ○ 공무원연금공단 청년인턴 근무 경험자 제외\r\n\r\n【전형별】\r\n ○ (장애) 「장애인고용촉진 및 직업재활법」 제2조, 동법시행령 제3조, 제4조에 해당하는 장애인 \r\n ○ (자립준비청년) 「아동복지법」 제16조 및 제16조의3에 따라 보호조치가 종료되거나, 해당 시설에서 퇴소한 자\r\n ○ (기초생활수급자) 「국민기초생활보장법」 제2조제2호에 해당하는 국민기초생활수급자",
       "isExcludedHireType": false
@@ -455,7 +455,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 『청년고용촉진 특별법 시행령』에 따라 임용일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음\r\nㅇ 일반전형 채용직렬별 자격요건\r\n- (방사선사) 방사선사 면허증 소지자\r\n- (사회복지사) 사회복지사 2급 이상 자격증 소지자\r\n* 응시자격은 응시원서 마감일 기준",
       "isExcludedHireType": false
@@ -479,7 +479,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 「장애인고용촉진 및 직업재활법 시행령」제3조에 따른 장애인\r\nㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ ’25. 1. 1. 이후 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음",
       "isExcludedHireType": false
@@ -503,7 +503,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 「장애인고용촉진 및 직업재활법 시행령」제3조에 따른 장애인\r\nㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ ’25. 1. 1. 이후 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음",
       "isExcludedHireType": false
@@ -527,7 +527,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 「장애인고용촉진 및 직업재활법 시행령」제3조에 따른 장애인\r\nㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ ’25. 1. 1. 이후 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음",
       "isExcludedHireType": false
@@ -551,7 +551,7 @@
       "isHighSchoolTrack": true,
       "hsTrackDetectedFromText": true,
       "replImprYn": "N",
-      "daysLeft": 5,
+      "daysLeft": 4,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 채용직군별 자격요건\r\n- 일반전형: 간호조무사 자격증 소지자\r\n- 고졸전형: 간호조무사 자격증 소지자로서 최종학력이 고등학교 졸업인 사람('27년 졸업예정자 제외) 또는 이에 준하는 학력인 사\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\r\nㅇ 연령제한 없음(단, 임용일 기준 60세(정년) 미만)\r\nㅇ 기타: 임용예정일 즉시 근무가 가능한 자\r\n※ 임용예정일은 공단 사정에 따라 변경될 수 있음",
       "isExcludedHireType": false
@@ -575,7 +575,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 「장애인고용촉진 및 직업재활법 시행령」제3조에 따른 장애인\r\nㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ ’25. 1. 1. 이후 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음",
       "isExcludedHireType": false
@@ -599,7 +599,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음\r\nㅇ 일반전형 채용직렬별 자격요건\r\n- (물리치료사) 물리치료사 면허증 소지자\r\n- (사회복지사) 사회복지사 2급 이상 자격증 소지자\r\n- (보건의료정보관리사) 보건의료정보관리사 면허증 소지자\r\n* 응시자격은 응시원서 마감일 기준",
       "isExcludedHireType": false
@@ -623,7 +623,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 5,
+      "daysLeft": 4,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 채용분야별 응시자격 : 직업환경의학과 전문의 자격 소지자\r\n* 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한자\r\nㅇ 기타: 임용예정일 즉시 근무가 가능한 자\r\n※ 임용예정일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 연령요건 : 제한없음",
       "isExcludedHireType": false
@@ -647,7 +647,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음\r\nㅇ 일반전형 채용직렬별 자격요건\r\n- (작업치료사) 작업치료사 면허증 소지자\r\n- (산업위생사) 산업위생관리(산업)기사 자격증 소지자\r\n* 응시자격은 응시원서 마감일 기준",
       "isExcludedHireType": false
@@ -671,7 +671,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 「장애인고용촉진 및 직업재활법 시행령」제3조에 따른 장애인\r\nㅇ 『청년고용촉진 특별법 시행령』에 따라 원서접수 마감일 기준 15세 이상 34세 이하인 자\r\n- 군 전역자(사회복무요원 포함)는 『제대군인지원에 관한 법률』 제16조에 따라 응시연령 상한을 다음과 같이 연장(1년 미만 1세, 1년 이상 2년\r\n미만 2세, 2년 이상 3세)\r\nㅇ ’25. 1. 1. 이후 우리공단 청년(체험형)인턴으로 근무한 경험이 없는 자\r\nㅇ 임용예정일 즉시 근무가 가능한 자\r\n- 임용일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 학력 및 경력 제한 없음",
       "isExcludedHireType": false
@@ -695,7 +695,7 @@
       "isHighSchoolTrack": true,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "srcUrl": "https://www.kdic.or.kr",
       "aplyQlfcCn": "<공통>\r\n - 대학교(전문대학 포함) 2~4학년생(수료 포함), 석사 1~2학년차\r\n - 채용 확정 후 즉시 근무가 가능한 자일 것\r\n - 우리 공사 인사관리규정상 채용 결격사유에 해당하지 않을 것\r\n - 우리 공사와 인턴 계약을 체결한 적이 없을 것\r\n - 공직자의 이해충돌 방지법 제11조 제1항에 따른 공사 및 금융위원회 소속 고위공직자 등의 가족이 아닌 자",
       "isExcludedHireType": false
@@ -719,7 +719,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 채용분야 응시자격\r\n- 간호사 : 간호법상 간호사 면허를 취득한자\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 연령요건 : 연령제한 없음(단, 임용일 기준 만 60세 미만(정년)인 자)\r\nㅇ 기타 : 임용예정일 즉시 근무가 가능한 자",
       "isExcludedHireType": false
@@ -743,7 +743,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 채용분야 응시자격\r\n- 간호사 : 간호법상 간호사 면허를 취득한자\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 연령요건 : 연령제한 없음(단, 임용일 기준 만 60세 미만(정년)인 자)\r\nㅇ 기타 : 임용예정일 즉시 근무가 가능한 자",
       "isExcludedHireType": false
@@ -767,7 +767,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 채용분야 응시자격\r\n- 약사: 약사법상 약사 면허증 소지자\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\r\nㅇ 연령요건: 제한없음(단, 임용일 기준 60세 미만(정년)인 자)",
       "isExcludedHireType": false
@@ -791,7 +791,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": "https://www.kead.or.kr/bbs/recruit/bbsPage.do?menuId=MENU0898",
       "aplyQlfcCn": "○ 「국가공무원법」 제33조 각 호의 어느 하나에 해당되지 아니한 분\r\n○ 「인사규정」 제12조 각 호의 어느 하나에 해당되지 아니한 분\r\n○ 최초 임기 2년이내 「인사규정」 제37조제1항제2호(정년)에 해당되지 아니한 분\r\n○ 공단 직업능력개발원장 직무수행요건의 임용자격요건에 해당하는 분\r\n※ 구체적인 자격요건 등은 직무수행요건 참조(학력기준, 경력기준 또는 실적요건 중 하나 이상 해당되어야 함)",
       "isExcludedHireType": false
@@ -815,7 +815,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": "https://www.kead.or.kr/bbs/recruit/bbsPage.do?menuId=MENU0898",
       "aplyQlfcCn": "○ 「국가공무원법」 제33조 각 호의 어느 하나에 해당되지 아니한 분\r\n○ 「인사규정」 제12조 각 호의 어느 하나에 해당되지 아니한 분\r\n○ 최초 임기 2년이내 「인사규정」 제37조제1항제2호(정년)에 해당되지 아니한 분\r\n○ 공단 직업능력개발원장 직무수행요건의 임용자격요건에 해당하는 분\r\n※ 구체적인 자격요건 등은 직무수행요건 참조(학력기준, 경력기준 또는 실적요건 중 하나 이상 해당되어야 함)",
       "isExcludedHireType": false
@@ -839,7 +839,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": "https://www.kead.or.kr/bbs/recruit/bbsPage.do?menuId=MENU0898",
       "aplyQlfcCn": "○ 「국가공무원법」 제33조 각 호의 어느 하나에 해당되지 아니한 분\r\n○ 「인사규정」 제12조 각 호의 어느 하나에 해당되지 아니한 분\r\n○ 최초 임기 2년이내 「인사규정」 제37조제1항제2호(정년)에 해당되지 아니한 분\r\n○ 공단 직업능력개발원장 직무수행요건의 임용자격요건에 해당하는 분\r\n※ 구체적인 자격요건 등은 직무수행요건 참조(학력기준, 경력기준 또는 실적요건 중 하나 이상 해당되어야 함)",
       "isExcludedHireType": false
@@ -863,7 +863,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": "https://www.koagi.or.kr/www/user/bbs/BD_selectBbs.do?q_bbsSn=1009&q_clsfNo=&q_bbsDocNo=20261113131600891&q_searchKeyTy=&q_searchVal=&q_currPage=1&q_sortName=&q_sortOrder=&q_rowPerPage=10",
       "aplyQlfcCn": "(별정직)\r\n- 1급 : 정부, 공공기관, 사기업 등에서 채용예정 직무 관련 17년 이상 경력이 있는 자\r\n\r\n※ 보다 자세한 사항은 첨부된 채용공고문 참조",
       "isExcludedHireType": false
@@ -887,7 +887,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": "https://koreha.or.kr/board/view.do?MN1=6&MN2=113&MN3=&MN=113&BRD_ID=S_Notice&BBS_IDX=2521&ETC_1=hire&REG_DATE=2026-11-13",
       "aplyQlfcCn": "<필수요건>\r\n- 임용예정일에 근무 가능한 자\r\n- 만 18세 이상 및 만 60세 이하(공단 정년)\r\n- 남성의 경우 「병역법」에 따라 병역의무 불이행 사실이 없는 자\r\n- 성별, 학력, 거주지 제한 없음\r\n- 공단 인사규정 등에 의한 임용결격사유에 해당되지 않는 자\r\n- 현직 공무원 및 공공기관 재직자, 퇴직 후 3년 미만인 공무원 및 공공기관 근무경력자에 해당하지 않는 자\r\n  ※ 「공기업.준정부기관의 경영에 관한 지침」 제12조제5항 참조\r\n  ※ 공고문 【별첨1】 임용 결격사유\r\n\r\n<경력요건>\r\n- 다음 경력 중 1개 이상을 보유한 자\r\n① (석·박사학위) 직무 관련 분야1) 경력 2년 이상인 자\r\n② (학사학위) 직무 관련 분야 경력 3년 이상인 자\r\n③ 직무 관련 분야에서 임용예정직위(부장)에 상당하는 부서 단위 책임자 이상으로 3년 이상 근무한 경력이 있는 자\r\n④ 공공기관2) · 민법 및 상법상 법인, 특별법에 의하여 설립된 법인 등 법인체에서 직무 관련 분야 경력 12년 이상인 자\r\n1) 3p “? 담당예정직무” 중 1개 이상의 직무 경력을 보유하고 ① ~ ④ 중 1개 이상의 경력기간을 보유할 시 입사지원 가능\r\n2) 「공공기관의 운영에 관한 법률」 제4조, 제5조, 제6조에 따라 지정된 공기업 · 준정부기관 · 기타공공기관에 한함\r\n",
       "isExcludedHireType": false
@@ -911,7 +911,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "srcUrl": "https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=191258",
       "aplyQlfcCn": "○ 응시자격\r\n1) 旣인턴수료자 및 2027년 2월 수료예정자\r\n2)공단(본원) 인사규정 제18조에 의한 결격사유에 해당하지 않는 자\r\n3) 의무사관후보생의 경우 33세 되는 해의 2월까지 수료 가능한자\r\n4)『아동·청소년의성 보호에 관한 법률』제 56 조(아동·청소년\r\n관련 기관 등에서의 취업제한 등)에 해당되지 않는 자\r\n○ 응시제한\r\n1) 타 수련병원(기관) 중복지원 및 응시는 일체 불허\r\n○ 모집분야\r\n- 레지던트 1년차 11명\r\n* 치과 보철과 : 5명\r\n* 치과 치주과 : 3명\r\n* 치과 보존과 : 3명",
       "isExcludedHireType": false
@@ -935,7 +935,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "Y",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "srcUrl": "https://www.kiat.or.kr/",
       "aplyQlfcCn": "ㅇ 학력, 전공, 연령, 성별, 경력 제한 없음\r\nㅇ 남자의 경우 병역필(접수마감일 기준) 또는 면제자\r\n * 군 복무 중인 자는 ’27.1월 이전 전역 예정자에 한해 지원 가능\r\nㅇ 진흥원 인사규정 제7조에 따른 결격사유에 해당하지 않는 자\r\nㅇ 최종 합격 후 바로 근무 가능한 자\r\n * 상세 내용은 공고문 참고",
       "isExcludedHireType": false
@@ -959,7 +959,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 9,
+      "daysLeft": 8,
       "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM020043",
       "aplyQlfcCn": "- 학력·전공, 나이 제한 없음(만18세이상)\r\n- 공단 인사규정 제18조(결격사유)에 해당하지 않는 자\r\n- 소득·자산 기준초과자는 참여 제한(세부사항 공고문 참조)\r\n- 직접일자리사업 반복 및 중복 참여자는 참여 제한(세부사항 공고문 참조)",
       "isExcludedHireType": false
@@ -983,7 +983,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 5,
+      "daysLeft": 4,
       "srcUrl": "https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=191123",
       "aplyQlfcCn": "가. 장애인(행정보조)\r\n- 장애인고용촉진 및 직업재활법에 의한 장애인에 해당하는 자\r\n나. 공통\r\n-공단 인사규정 제18조에 정한 결격 사유에 해당하지 않는 자\r\n-15세 이상, 34세 이하(청년고용촉진특별법 시행력 제2조)\r\n-부산보훈병원 타공고 중복지원 불가(중복지원시 서류심사 불합격할 수 있음)\r\n※전 항을 모두 충족해야함",
       "isExcludedHireType": false
@@ -1008,7 +1008,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "Y",
-      "daysLeft": 4,
+      "daysLeft": 3,
       "srcUrl": "https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895",
       "aplyQlfcCn": "- 채용 분야의 직무 수행이 가능한 자\r\n- 컴퓨터 프로그램(엑셀 및 한글) 사용 및 전화 업무가 가능한 자\r\n- 일반직, 취업지원상담사: (청년인턴) 임용예정일 기준 만 15세 이상 만 34세 이하인 자\r\n  *「청년고용촉진 특별법 시행령」 제2조에 따른 청년 미취업자\r\n- 취업지원상담사: 해당 전문 분야(사회복지, 직업재활, 심리, 상담, 특수교육 관련 분야) 학사 학위 취득자 또는 관련 분야 자격증 소지자\r\n  * 장애인재활상담사, 사회복지사, 직업상담사, 청소년상담사, 평생교육사, 상담심리사, 정신보건사회복지사, 정신보건임상심리사, 임상심리사, 특수교사, 직업훈련교사, 공인노무사\r\n- 교사직: 「초중등교육법」 제21조에 따른 특수학교 정교사 자격을 취득하였거나 취득 예정인 자(접수 마감일 기준으로 보유 여부 판단)\r\n  ※ 자세한 사항은 첨부된 채용공고문 참조",
       "isExcludedHireType": false
@@ -1032,7 +1032,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 69,
+      "daysLeft": 68,
       "srcUrl": "https://nhimc.recruiter.co.kr/career/jobs/133767",
       "aplyQlfcCn": "- 「국가공무원법」제33조의 결격사유가 없는 자\r\n- 치과의사 면허 소지자\r\n- 대한민국 치과의사국가시험에 합격한 자\r\n- 「병역법」제58조 및 동 시행령 제119조 제2항에 의거, 2월 10일까지 의무사관후보생 지원서 국방부에 제출 가능한 자",
       "isExcludedHireType": false
@@ -1056,7 +1056,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 11,
+      "daysLeft": 10,
       "srcUrl": "https://nhimc.recruiter.co.kr/",
       "aplyQlfcCn": "ㅇ 자격사항 : 진료과별 전문의 자격증 소지자\r\nㅇ 필요경력 : 종합병원급 이상 의료기관에서 해당분야 진료경력이 1년차 이상인 자\r\nㅇ 연구논문 : 의사면허 취득 후 연구논문 1편 이상\r\n  * 세부 자격 요건 : 첨부 공고문 참조\r\n<공통응시자격>\r\n  * 응시원서 작성 중 면허(자격)증은 임용일 기준이고, 교육 및 경력사항 등 일체는 입사지원서 접수마감일 기준으로 성별, 연령, 학력 제한은 없으나 우리병원 인사규정 제84조(정년)에 따라 65세 이상자는 지원할 수 없음(단, 전문계약직(정원외 촉탁의)은 연령 제한 없음)\r\n  * 각 채용 직종, 직급 및 동일분야 채용에 중복 지원할 수 없으며 중복지원 확인시 자격 미달 처리\r\n  * 모집분야별 임용일부터 근무가 가능한 사람으로 남자인 경우 원서 마감일 기준 군필자 또는 면제자\r\n  * 채용과정에서 부정한 행위를 한 자는 인사규정에 따라 당해 시험을 정지 또는 무효로 하고 그 처분이 있는 날로부터 5년간 채용시험의 응시자격을 제한하거나, 직권면직 또는 당연 퇴직 사유가 될 수 있음\r\n  * 입사지원서 응시자격, 교육 및 경력사항 등 기재 불량자(미기재한 자 포함)는 자격미달 처리하고 허위기재한 자는 부정한 행위를 한 자로 처리\r\n  * 증빙서류는 입사지원서 작성 기준에 따라 면접전형 응시자에 한하여 ‘면접전형 당일’에 제출하여야 함(단, 연구업적심사에 필요한 논문 제출은 입사지원서 제출 기간에 제출)\r\n  * 증빙서류는 응시자격 및 우대가점 등의 진위여부 확인을 위한 목적외에는 사용하지 않으며 증빙서류가 사실과 다를 경우에는 부정행위자로 탈락처리 될 수 있으니 각별히 주의 요망\r\n  * 우리병원은 직무역량중심 블라인드 채용으로 편견이 개입되는 차별적 인적정보(연령, 출신학교, 가족관계 등)를 일절 요구하지 않음\r\n  * 우리병원 인사규정 제8조(결격사유)에 해당되지 않는 사람\r\n  * 외국인의 경우 국내 체류자격을 갖춘 자 \r\n  - 거주(F-2), 재외동포(F-4), 영주(F-5)의 체류 자격 등",
       "isExcludedHireType": false
@@ -1080,7 +1080,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "srcUrl": "https://nhimc.recruiter.co.kr/career/jobs/133765",
       "aplyQlfcCn": " - 「국가공무원법」제33조의 결격사유가 없는 자\r\n - 치과의사 면허 소지자\r\n - 치과의사 인턴과정 이수(예정)자\r\n - 의무사관후보생 지원(예정)자는 33세가 되는 해의 2월까지 전공의 과정을 마칠 수 있는 자",
       "isExcludedHireType": false
@@ -1105,7 +1105,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 11,
+      "daysLeft": 10,
       "srcUrl": "https://keis.or.kr/keis/ko/bbs/236/list.do",
       "aplyQlfcCn": "□ 일반직5급(대리)\r\n ○ 기록물관리\r\n  ■ (필수자격) 기록물관리 전문요원 자격* 취득 이후 관련 분야 업무** 2년 이상 경력자  \r\n   *「공공기록물 관리에 관한 법률 시행령」제78조에 따라 다음의 각 호의 어느 하나에 해당하는 자\r\n    1. 기록관리학 전공으로 석사 학위 이상을 취득한 자\r\n    2. 다음 각 목의 어느 하나에 해당하는 사람으로서 행정안전부령으로 정하는 기록관리학 교육과정을 이수하고, 행정안전부장관이 시행하는 \r\n       기록물관리 전문요원 시험에 합격한 사람.\r\n     가. 기록관리학 학사 학위를 취득한 자\r\n     나. 역사학 또는 문헌정보학 학사 학위 이상을 취득한 자 \r\n   ** 기록물관리, 아카이브관리, 기록물관리시스템 등 기록물 관련 업무(사서 업무는 제외) \r\n\r\n※ 상세사항은 첨부파일의 공고문 등 참고",
       "isExcludedHireType": false
@@ -1129,7 +1129,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=32374&bbsId=1158&bbsSysId=main&nttSn=190902",
       "aplyQlfcCn": " - 장애인고용촉진 및 직업재활법 제2조 및 시행령 제4조에 따른 중증장애인으로 한국장애인고용공단의 추천을 받은 자\r\n - 공단 인사규정 제18조(결격사유)에 해당하지 않는 자\r\n - 계약기간 종료일까지 공단 인사규정 제44조(정년)에 따른 정년(만60세) 미만인 자\r\n - 주5일, 일4시간 근무 가능자\r\n  * 오전(08:30~13:00), 오후(13:00~17:30) 등 탄력운영(협의)\r\n - 임용예정일(2026.12.08.)부터 근무 가능한 자",
       "isExcludedHireType": false
@@ -1156,7 +1156,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 9,
+      "daysLeft": 8,
       "srcUrl": "https://fowi.or.kr/user/bbs/bbsView.do?bbsManageId=22&bbsId=9310",
       "aplyQlfcCn": "1.「인사규정시행세칙」 ‘별표1’의 1급 채용기준 중 어느 하나를 충족한 자\r\n2. 진흥원 「인사규정」 제6조 각 호의 결격사유에 해당되지 않는 자\r\n3. 해당 직위(국립진안고원산림치유원장(별정 1급)) 지원자격 중 어느 하나를 충족한 자\r\n -공무원 재직기간이 18년 이상이고, 4급 이상으로 근무한 경력이 있는 자\r\n -박사학위 취득 후 채용예정 직무분야 관련 13년 이상 경력이 있는 자\r\n -석사학위 취득 후 채용예정 직무분야 관련 16년 이상 경력이 있는 자\r\n -학사학위 취득 후 채용예정 직무분야 관련 18년 이상 경력이 있는 자\r\n -변호사, 변리사, 공인회계사·세무사·공인노무사, 기술사 등 자격을 취득하고\r\n   해당 분야에서 13년 이상 경력이 있는 자\r\n -공공기관, 민법 및 상법 상 법인체, 특별법에 의하여 설립된 법인에서 \r\n   채용예정 직무분야 관련 18년 이상 근무한 경력이 있는 자\r\n -한국산림복지진흥원에서 1급으로 재직하고 있는 자\r\n * 「한국산림복지진흥원 개방형 직위 운영 시행세칙」 제5조에 따라 내부직원 지원 가능\r\n * 경력은 4대보험 중 1개 보험의 자격득실 이력, 근무기관의 경력증명서, 소득금액증명 세 가지 모두 회사명·근무기간이 일치하는 것만 인정",
       "isExcludedHireType": false
@@ -1180,7 +1180,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM020015",
       "aplyQlfcCn": "- 학력·전공, 나이 제한 없음(만18세이상)\r\n- 공단 인사규정 제18조(결격사유)에 해당하지 않는 자\r\n- 소득·자산 기준초과자는 참여 제한(세부사항 공고문 참조)\r\n- 직접일자리사업 반복 및 중복 참여자는 참여 제한(세부사항 공고문 참조)",
       "isExcludedHireType": false
@@ -1204,7 +1204,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 1,
+      "daysLeft": 0,
       "srcUrl": "https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=191049",
       "aplyQlfcCn": "(의사직 공통)\r\n - (필수) 공단 인사규정 제18조(결격사유)에 해당하지 않는자\r\n - 연령제한 무관\r\n\r\n(소화기내과 전문의) \r\n - (필수) 소화기내과 전문의 자격증 소지자\r\n - (우대) 전임의 1년 이상 경력자\r\n\r\n(호흡기내과 전문의) \r\n - (필수) 호흡기내과 전문의 자격증 소지자\r\n - (우대) 전임의 1년 이상 경력자\r\n\r\n(순환기내과 전문의) \r\n - (필수) 순환기내과 전문의 자격증 소지자\r\n - (우대) 부정맥 시술가능자\r\n\r\n(응급의학과 전문의 및 일반의) \r\n - (필수) 의사 면허증 소지자\r\n - (우대) 경력자\r\n\r\n(외과 전문의) \r\n - (필수) 외과 전문의 자격증 소지자\r\n - (우대) 전임의 1년 이상 경력자\r\n\r\n(비뇨의학과 전문의)\r\n - (필수) 비뇨의학과 전문의 자격증 소지자\r\n - (우대) 비뇨의학 관련 수술이 능숙한 전문의\r\n\r\n(입원전담 전문의 및 일반의)\r\n - (필수) 의사 면허증 소지자\r\n - (우대) 경력자",
       "isExcludedHireType": false
@@ -1228,7 +1228,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 4,
+      "daysLeft": 3,
       "srcUrl": "https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=191020",
       "aplyQlfcCn": "[공통]\r\n·(필수) 공단 인사규정 제18조에 정한 결격사유에 해당하지 않는 자\r\n·(필수) 공단 인사규정 제44조에 따른 정년(60세)에 도달하지 않은 자\r\n\r\n[응급의학과 전문의]\r\n·(필수) 의사 면허 소지자\r\n·(필수) 응급의학과 전문의 자격 소지자\r\n·(우대) 중앙보훈병원 근무 경력자\r\n\r\n[안과 전문의]\r\n·(필수) 의사 면허 소지자\r\n·(필수) 안과 전문의 자격 소지자\r\n·(필수) 망막 전임의(fellow) 과정 1년 이상 이수자\r\n·(우대) 유리체절제술 단독으로 시행 가능한 자",
       "isExcludedHireType": false
@@ -1252,7 +1252,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 4,
+      "daysLeft": 3,
       "srcUrl": "https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=191019",
       "aplyQlfcCn": "* 보건직(임상병리사)-(2)\r\n(필수) 임상병리사 면허증 소지자\r\n(우대) 심장초음파실 1년이상 근무경력자\r\n\r\n* 기능직(간호조무사)-(3)\r\n(필수) 간호조무사 자격증 소지자\r\n(필수) 3교대 또는 상근 근무 가능자\r\n\r\n* 기능직(시설_전기)-(1)\r\n(필수) 전기산업기사 이상 또는 전기공사산업기사 이상 자격증 소지자\r\n\r\n[공통 사항]\r\n(필수) 공단 인사규정 제18조(결격사유 및 임용취소)에 해당되지 않는 자\r\n(필수) 공단 인사규정 제44조(정년)에 따른 정년(60세)을 초과하지 않는 자",
       "isExcludedHireType": false
@@ -1276,7 +1276,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "Y",
-      "daysLeft": 10,
+      "daysLeft": 9,
       "srcUrl": "https://recruit.incruit.com/koreha/",
       "aplyQlfcCn": "? 원서접수 마감일 기준 만 18세 이상 및 만 60세 이하(공단 정년)인 자\r\n? 남성의 경우 「병역법」에 따라 병역의무 불이행 사실이 없는 자\r\n? 성별 ? 학력 ? 거주지 제한 없음\r\n? 공단 규정에 따라 생활관 비상대기 및 비상출동이 가능한 자\r\n? 공단 인사규정 등에 의한 임용 결격사유에 해당되지 않는 자\r\n 【별첨2】 임용 결격사유 참조\r\n? 임용예정일에 근무가 가능한 자",
       "isExcludedHireType": false
@@ -1300,7 +1300,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "Y",
-      "daysLeft": 10,
+      "daysLeft": 9,
       "srcUrl": "https://recruit.incruit.com/koreha",
       "aplyQlfcCn": "- 응시연령: 원서접수 마감일 기준 만 18세 이상 및 만 60세 이하(공단 정년) \r\n- 남성의 경우 「병역법」에 따라 병역의무 불이행 사실이 없는 자\r\n- 성별 ? 학력 ? 거주지 제한 없음\r\n- 공단 규정에 따라 생활관 비상대기 및 비상출동이 가능한 자 \r\n- 공단 인사규정 등에 의한 임용결격사유에 해당되지 않는 자\r\n【별첨2】 임용 결격사유 참조\r\n- 임용예정일에 근무가 가능한 자\r\n- 다음 중 1개 이상 자격증 소지자(원서접수 마감일 기준)\r\n① 정신건강임상심리사 2급 이상\r\n② 상담심리사 2급 이상 (※ 한국상담심리학회)\r\n③ 임상심리사 2급 이상\r\n④ 전문상담사 2급 이상 (※ 한국상담학회)",
       "isExcludedHireType": false
@@ -1324,7 +1324,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM020012",
       "aplyQlfcCn": "- 학력 전공, 나이 제한 없음(만18세 이상)\r\n- 공단 인사규정 제18조(결격사유)에 해당하지 않은 자\r\n- 소득 자산 기준 초과자는 참여 제한(세부사항 공고문 참조)\r\n- 직접일자리사업 반복 및 중복 참여자는 참여 제한(세부사항 공고문 참조)",
       "isExcludedHireType": false
@@ -1348,7 +1348,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 4,
+      "daysLeft": 3,
       "srcUrl": "https://www.bohun.or.kr/wjcare/na/ntt/selectNttInfo.do?mi=35524&bbsId=1314&bbsSysId=wjcare&nttSn=190975",
       "aplyQlfcCn": "[요양보호직]\r\nㅇ 공단 인사규정 제18조(결격사유)에 해당하지 않는 자\r\nㅇ 공단 인사규정 제44조에 따른 정년(60세)을 초과하지 않는 자\r\nㅇ 남자의 경우 병역을 필하였거나 면제된 자\r\nㅇ 요양보호사 자격증 소지자로 3교대 근무 가능한 자\r\n ※ 합격증 소지자 지원가능(최초 임용예정일 이전 자격증 제출 필수)",
       "isExcludedHireType": false
@@ -1372,7 +1372,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=190971",
       "aplyQlfcCn": "가. 영상의학과 전문의 자격증 소지자\r\n나. 공통\r\n-공단 인사규정 제18조에 정한 결격 사유에 해당하지 않는 자\r\n-공단 업무지원직 인사관리 시행세칙 제13조에 따른 정년(만60세)에 도달하지 않은 자\r\n-부산보훈병원 타공고 중복지원 불가(중복지원시 서류심사 불합격할 수 있음)\r\n※전 항을 모두 충족해야함",
       "isExcludedHireType": false
@@ -1396,7 +1396,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.lx.or.kr/kor/BBSMSTR_000000000001/317/25724/view.do",
       "aplyQlfcCn": "ㅇ일반요건\r\n- 공사 인사규정 제15조 결격사유에 해당하지 아니한 자\r\n- 성별, 나이 제한 없음. 단, 공사 정년(만 60세) 이상자 제외\r\n- 병역을 필하였거나 면제된 자(남성만 해당)\r\n- 해외여행에 결격사유가 없는 자\r\n- (제한)채용시험 중 부정행위를 한 자로서 그 처분이 있는 날로부터 3년이 경과되지 아니한 자\r\n- (제한)정당한 사유없이 임용에 불응한 자로서 1년을 경과하지 아니한 자\r\nㅇ 필수요건\r\n- 채용공고문 참조",
       "isExcludedHireType": false
@@ -1420,7 +1420,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.lx.or.kr/kor/BBSMSTR_000000000001/317/25725/view.do",
       "aplyQlfcCn": "ㅇ일반요건\r\n- 공사 인사규정 제15조 결격사유에 해당하지 아니한 자\r\n- 성별, 나이 제한 없음. 단, 공사 정년(만 60세) 이상자 제외\r\n- 병역을 필하였거나 면제된 자(남성만 해당)\r\n- 해외여행에 결격사유가 없는 자\r\n- (제한)채용시험 중 부정행위를 한 자로서 그 처분이 있는 날로부터 3년이 경과되지 아니한 자\r\n- (제한)정당한 사유없이 임용에 불응한 자로서 1년을 경과하지 아니한 자\r\nㅇ 필수요건\r\n- 채용공고문 참조",
       "isExcludedHireType": false
@@ -1446,7 +1446,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.lx.or.kr/kor/BBSMSTR_000000000001/317/25726/view.do",
       "aplyQlfcCn": "ㅇ일반요건\r\n- 공사 인사규정 제15조 결격사유에 해당하지 아니한 자\r\n- 성별, 나이 제한 없음. 단, 공사 정년(만 60세) 이상자 제외\r\n- 병역을 필하였거나 면제된 자(남성만 해당)\r\n- 해외여행에 결격사유가 없는 자\r\n- (제한)채용시험 중 부정행위를 한 자로서 그 처분이 있는 날로부터 3년이 경과되지 아니한 자\r\n- (제한)정당한 사유없이 임용에 불응한 자로서 1년을 경과하지 아니한 자\r\nㅇ 필수요건\r\n- 채용공고문 참조",
       "isExcludedHireType": false
@@ -1470,7 +1470,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37031&bbsId=1158&bbsSysId=main&nttSn=190924",
       "aplyQlfcCn": " - (필수) 사회복지사 2급 이상 자격증 소지자\r\n - (필수) 남자의 경우 병역을 필하였거나 면제된 자\r\n - (필수) 공단 인사규정 제18조(결격사유 및 임용취소)에 해당하지 않는 자\r\n - (필수) 공단 인사규정 제44조(정년)에 따라 정년(만60세)에 도달하지 않은 자",
       "isExcludedHireType": false
@@ -1497,7 +1497,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://knto.or.kr/recruitInfo#",
       "aplyQlfcCn": "□ 아래 요건을 모두 충족하는 자\r\n ㅇ 공사 인사규정 제12조(채용결격) 및 국가공무원법 제33조(결격사유)에 해당하지 않는 자\r\n ㅇ 「민간 전문가 전담직위」로서 다음 사항에 해당하지 않는 사람\r\n   - 공무원 및 공공기관에 재직(휴직) 중이거나 퇴직 후 3년이 지나지 않은 사람(개방형계약직 등으로 근무한 경력은 제외)\r\n ㅇ 입사일 기준 만 60세 미만이며, ‘26.12.16(수)부터 근무 가능한 자\r\n     * 협의에 따라 입사일 조정 가능\r\n ㅇ 다음 각 호의 어느 하나에 해당하는 자\r\n  1. 관련 전공 학위 소지자로서 아래 조건을 충족하는 자\r\n   가. (학사 학위 소지자) 관련 분야 업무 경력이 7년 이상이며, 책임자급 경력이 2년 이상인 자\r\n   나. (석사 학위 소지자) 관련 분야 업무 경력이 5년 이상이며, 책임자급 경력이 2년 이상인 자\r\n   다. (박사 학위 소지자) 관련 분야 업무 경력이 3년 이상이며, 책임자급 경력이 2년 이상인 자\r\n  2. 관련 분야 업무 경력이 10년 이상이며, 책임자급 경력이 2년 이상인 자\r\n  3. 「국가기술자격법」에 따른 정보관리기술사 자격 취득 후 책임자급 경력이 2년 이상인 자\r\n□ 관련 학위: 정보보안 관련 전공\r\n     * 정보보호학, 정보보안학, 융합보안학, 컴퓨터공학 등 \r\n□ 관련 분야: 정보보안 관련 분야\r\n     * 정보보안 정책 관리, 개인정보보호, IT 보안감사 및 컴플라이언스 대응, 정보보안 아키텍처 및 기술 기획 등\r\n□ 인정 조건\r\n ㅇ 경력 산정, 학위 및 자격증 소지 여부는 입사지원 마감일 기준\r\n ㅇ 경력 산정 시 대학조교 경력 및 학위 취득에 소요되는 학위 과정 경력 제외\r\n ㅇ 단시간 근무(시간제 근무)의 경우 기준(주당 40시간)에 비례하여 산출한 경력 인정\r\n ㅇ 책임자급 인정조건: 의사결정 및 업무 관리 기능을 수행하는 차장급 이상 직위\r\n ㅇ 경력 인정조건: 기재한 담당업무 등 통해 관련 분야에서의 경력임이 나타나는 경우 인정(해당되는 기간 한정 기재)\r\n\r\n※ 세부 내용 채용 공고문 참조",
       "isExcludedHireType": false
@@ -1521,7 +1521,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "srcUrl": "https://www.kca.kr/boardList.do?pageId=www48&boardId=CAREERS",
       "aplyQlfcCn": " ○ 공통사항\r\n  - 성별, 병역 제한 없으며, 임용일 기준 근무가능자\r\n  - 임용일 기준 만 18세 이상 만 34세 이하인 자. 제대군인의 경우 의무복무 기간 만큼 청년연령 연장(최고연령은 만 37세로 한정)\r\n  - KCA 인사규정 제12조(결격사유)에 해당되지 않는 자\r\n\r\n※ 세부내용 채용공고문 참조",
       "isExcludedHireType": false
@@ -1551,7 +1551,7 @@
       "isHighSchoolTrack": true,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://kosha.or.kr/notification/jobncontract/job/jobdata?bbsId=B2025021400005&pstNo=20261030092840M23MBV",
       "aplyQlfcCn": "- 공단 「인사규정」 제18조에 해당하지 않는 사람\r\n- 정년(임용예정일 기준 만 60세)에 도달하지 않는 사람\r\n- 임용예정일 즉시 근무가 가능한 사람\r\n- 추가 구체적 자격요건 등 자세한 내용은 첨부파일의 채용공고문 참조",
       "isExcludedHireType": false
@@ -1581,7 +1581,7 @@
       "isHighSchoolTrack": true,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://kosha.or.kr/notification/jobncontract/job/jobdata?bbsId=B2025021400005&pstNo=20261030092840M23MBV",
       "aplyQlfcCn": "- 공단 「인사규정」 제18조에 해당하지 않는 사람\r\n- 정년(임용예정일 기준 만60세)에 도달하지 않는 사람\r\n- 임용예정일 즉시 근무가 가능한 사람\r\n- 추가 구체적 자격요건 등 자세한 내용은 첨부파일의 채용공고문 참조",
       "isExcludedHireType": false
@@ -1607,7 +1607,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "Y",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.ssis.or.kr/lay1/bbs/S1T916C1391/O/130/view.do?article_seq=130282&cpage=1&rows=10&condition=&keyword=",
       "aplyQlfcCn": "□ [기간제 및 육아휴직대체]\r\n- (전산고급)\r\n1. 중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\n2. 박사학위를 가진 자로서 기사 자격 또는 산업통상자원부 장관이 고시하는 해당 등급의 공인 민간 자격을 취득한 자\r\n3. IT 관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- (전산중급)\r\n1. 기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\n2. 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인 민간 자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\n3. IT 관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- (전산초급, 일반)\r\n1. 기사 자격을 취득한 자\r\n2. IT 관련 경력자로서 채용 관련 업무 경력자\r\n\r\n- (전산초급, 보안)\r\n1. 정보보안기사 자격을 취득한 자\r\n2. 정보보안 경력자로서 채용 관련 업무 경력자\r\n\r\n- (행정나급)\r\n1. 채용 관련 분야에서 3년 이상 근무한 자\r\n2. 채용 관련 분야 석사학위 취득자\r\n\r\n- (행정다급, 보건관리자)\r\n1.  「간호법」에 따른 간호사로서 간호사 관련 경력 2년 이상인 자\r\n\r\n- (상담사)\r\n1. 금융, 보험, 공공기관 콜센터 업무수행 실무 경력자 우대\r\n2. 사회복지분야 또는 정보화 관련 업무 경력자 및 자격증 소지자 우대",
       "isExcludedHireType": false
@@ -1631,7 +1631,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019956",
       "aplyQlfcCn": "가. 학력, 전공, 나이 제한 없음(만18세 이상)\r\n나. 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\r\n다. 소득, 자산 기준 초과자는 참여 제한\r\n라. 직접일자리사업 반복 및 중복참여자는 참여 제한",
       "isExcludedHireType": false
@@ -1656,7 +1656,7 @@
       "isHighSchoolTrack": false,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "srcUrl": "https://www.nrf.re.kr/page/55?ac=view&postNo=284535&pageNum=1&searchType=&searchText=&menuNo=55&boardNo=8&menuTypeCd=MENU_TYPE_02",
       "aplyQlfcCn": "해당 학문(기술)단 소관 학문(기술)분야에 탁월한 전문성과 소관 사업에 대한 사업경영(관리) 능력을 겸비한 자로서, 박사학위 소지자인 경우 연구경력 또는 연구행정경력 15년 이상, 석사학위 소지자인 경우 연구경력 또는 연구행정경력 20년 이상인 전문가\r\n※ 내부직원이 응모할 경우 선임연구원 이상이며 상기조건 충족자\r\n※ 자격요건에서 말하는 ‘연구경력’이라 함은 대학(교) 및 공공·민간 연구소 등에서의 해당 분야 연구 수행경력을 의미하고, ‘연구행정경력’이라 함은 대학(교), 공공·민간 연구소 및 연구지원기관 등에서의 연구 수행과 관련된 행정경력을 의미함",
       "isExcludedHireType": false
@@ -1680,7 +1680,7 @@
       "isHighSchoolTrack": true,
       "hsTrackDetectedFromText": false,
       "replImprYn": "N",
-      "daysLeft": 47,
+      "daysLeft": 46,
       "srcUrl": "https://kotra.applyin.co.kr/jobs/22547",
       "aplyQlfcCn": "가. 국적 : 대한민국 국적 소지자\r\n나. 대상 : 장애인복지법 제 32조에 따른 등록 장애인\r\n다. 응시연령 : 만 15세 이상 ~ 만 34세 이하\r\n라. 학력 : 고등학교 졸업(접수일 기준)\r\n마. 최종 합격 후 근로계약 시작일부터 근무 가능한 자",
       "isExcludedHireType": false
