@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T16:09:32.994Z",
-  "count": 68,
+  "updatedAt": "2026-11-16T03:58:23.018Z",
+  "count": 70,
   "highSchoolCount": 6,
   "items": [
     {
@@ -49,6 +49,30 @@
       "daysLeft": 6,
       "srcUrl": "https://matchingbank.career.co.kr/",
       "aplyQlfcCn": "1. 연령, 학력, 전공, 성별 제한 없음\r\n2. (남성의 경우) 병역의무를 필했거나 면제된 자, 기피사실이 없는 자\r\n※ 군복무중인 경우 최종합격자 발표일 이전 전역 가능한 자 포함\r\n3. 복합발전설비 운전업무 유경험자\r\n4. 인사관리규정 제16조(신규채용자의 결격사유) 미 해당자\r\n5. 입사일부터 즉시 근무가능한 자(근로기간 및 채용일정 참고)",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307043,
+      "orgName": "한전KPS(주)",
+      "orgCode": "C0305",
+      "title": "한전KPS(주) 서울경기전력지사 군포지점 철탑기초 부지정비 모집",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "경기",
+      "ncsNm": "전기.전자",
+      "jobTrack": "전기",
+      "totalCount": 4,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 4,
+      "srcUrl": "https://www.kps.co.kr",
+      "aplyQlfcCn": "1. 채용예정일 즉시 근무 가능한 자",
       "isExcludedHireType": false
     },
     {
@@ -770,6 +794,30 @@
       "daysLeft": 0,
       "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
       "aplyQlfcCn": "ㅇ 채용분야 응시자격\r\n- 약사: 약사법상 약사 면허증 소지자\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\r\nㅇ 연령요건: 제한없음(단, 임용일 기준 60세 미만(정년)인 자)",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307049,
+      "orgName": "국립공원공단",
+      "orgCode": "C0021",
+      "title": "[주왕산] 2026년도 주왕산국립공원 겨울철 한시인력(수익시설) 직원 채용",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "경북",
+      "ncsNm": "경비.청소",
+      "jobTrack": "시설",
+      "totalCount": 5,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 4,
+      "srcUrl": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM020054",
+      "aplyQlfcCn": "- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자\r\n- 근무시작(예정)일부터 근무 가능한 자\r\n- 그 외 전공, 학력 등 제한 없음",
       "isExcludedHireType": false
     },
     {
