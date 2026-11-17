@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T19:23:59.774Z",
-  "count": 60,
+  "updatedAt": "2026-11-17T05:51:00.639Z",
+  "count": 63,
   "highSchoolCount": 4,
   "items": [
     {
@@ -73,6 +73,54 @@
       "daysLeft": 5,
       "srcUrl": "https://matchingbank.career.co.kr/",
       "aplyQlfcCn": "1. 연령, 학력, 전공, 성별 제한 없음\r\n2. (남성의 경우) 병역의무를 필했거나 면제된 자, 기피사실이 없는 자\r\n※ 군복무중인 경우 최종합격자 발표일 이전 전역 가능한 자 포함\r\n3. 복합발전설비 운전업무 유경험자\r\n4. 인사관리규정 제16조(신규채용자의 결격사유) 미 해당자\r\n5. 입사일부터 즉시 근무가능한 자(근로기간 및 채용일정 참고)",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307122,
+      "orgName": "한전KDN",
+      "orgCode": "C0306",
+      "title": "한전KDN(주) 울산지사 배전분야 일용원 모집공고",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-01",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "울산",
+      "ncsNm": "정보통신",
+      "jobTrack": "IT",
+      "totalCount": 2,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 14,
+      "srcUrl": "없음",
+      "aplyQlfcCn": "[공통]\r\n1. 일반 : 학력, 연령, 외국어 제한없음\r\n2. 병역 : 병역법 제 76조에서 정한 병역의무 불이행 사실이 없는 자\r\n3. 자격 : 건설업 기초 안전보건교육 이수자 또는 이수 가능자(계약시 증빙)\r\n4. 기타\r\n- 당사 인사규정 2.1.4(채용결격사유)에 해당하지 않는자(붙임1 참조)\r\n- 주민등록상 주소지가 울산, 양산, 부산 거주자\r\n5. 직종별자격(KDN조공)\r\n- 공사 및 현장 작업 관련 보조업무 수행 가능한 자\r\n- 도로 차량 통제(수신호) 및 지상감시 업무 가능한 자\r\n- 운전면허 소지자(1,2종보통), 1.2톤 고소작업차 운행 가능자",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307106,
+      "orgName": "한국수자원공사",
+      "orgCode": "C0221",
+      "title": "[한국수자원공사] (재공고) 청송권지사 청송현대화사업팀 특수직(기술관리_건설사업) 채용 공고",
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-01",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "경북",
+      "ncsNm": "사업관리,건설,기계,전기.전자,정보통신,환경.에너지.안전",
+      "jobTrack": "사무",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 14,
+      "srcUrl": "https://k-water.recruiter.co.kr/",
+      "aplyQlfcCn": "□ 연령, 성별, 학력 제한 없음\r\n□ 남자의 경우 병역필 또는 면제자(병역특례 근무중인 자 제외)\r\n□ 우리 공사 인사규정에 의한 결격사유가 없는 자\r\n□ 채용예정일부터 현업 전일근무가 가능한 자",
       "isExcludedHireType": false
     },
     {
@@ -506,6 +554,30 @@
       "daysLeft": 1,
       "srcUrl": "없음.",
       "aplyQlfcCn": "- 자동차 운전면허증 소지자(1종 보통 이상)\r\n- 건설업 기초 안전보건교육 이수자 또는 이수 가능자",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307124,
+      "orgName": "근로복지공단",
+      "orgCode": "C0035",
+      "title": "[대전병원] 별정직 의사(직업환경의학과) 채용 공고",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-27",
+      "hireTypeNm": "정규직",
+      "recrutSeNm": "신입",
+      "workRgnNm": "대전",
+      "ncsNm": "보건.의료",
+      "jobTrack": "보건복지",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 10,
+      "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
+      "aplyQlfcCn": "ㅇ 채용분야별 응시자격 : 직업환경의학과 전문의 자격 소지자\r\n* 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한자\r\nㅇ 기타: 임용예정일 즉시 근무가 가능한 자\r\n※ 임용예정일은 공단 사정에 따라 변경될 수 있음\r\nㅇ 연령요건 : 제한없음",
       "isExcludedHireType": false
     },
     {
