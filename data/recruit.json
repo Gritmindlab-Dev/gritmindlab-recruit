@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T17:52:57.363Z",
-  "count": 65,
+  "updatedAt": "2026-11-19T05:12:21.394Z",
+  "count": 69,
   "highSchoolCount": 5,
   "items": [
     {
@@ -200,6 +200,78 @@
       "daysLeft": 3,
       "srcUrl": "https://matchingbank.career.co.kr/",
       "aplyQlfcCn": "1. 연령, 학력, 전공, 성별 제한 없음\r\n2. (남성의 경우) 병역의무를 필했거나 면제된 자, 기피사실이 없는 자\r\n※ 군복무중인 경우 최종합격자 발표일 이전 전역 가능한 자 포함\r\n3. 복합발전설비 운전업무 유경험자\r\n4. 인사관리규정 제16조(신규채용자의 결격사유) 미 해당자\r\n5. 입사일부터 즉시 근무가능한 자(근로기간 및 채용일정 참고)",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307232,
+      "orgName": "한국수자원공사",
+      "orgCode": "C0221",
+      "title": "[한국수자원공사] 한강유역협력단 삼척시3현대화사업팀 특수직(기술관리_건설사업) 채용 공고",
+      "startDate": "2026-11-19",
+      "endDate": "2026-12-03",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "강원",
+      "ncsNm": "사업관리,건설,기계,전기.전자,정보통신,환경.에너지.안전",
+      "jobTrack": "사무",
+      "totalCount": 3,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 14,
+      "srcUrl": "https://k-water.recruiter.co.kr/",
+      "aplyQlfcCn": "□ 연령, 성별, 학력 제한 없음\r\n□ 남자의 경우 병역필 또는 면제자(병역특례 근무중인 자 제외)\r\n□ 우리 공사 인사규정에 의한 결격사유가 없는 자\r\n□ 채용예정일부터 현업 전일근무가 가능한 자",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307231,
+      "orgName": "한국수자원공사",
+      "orgCode": "C0221",
+      "title": "[한국수자원공사] 한강유역협력단 삼척시3현대화사업팀 특수직(사무관리_건설사업) 채용 공고",
+      "startDate": "2026-11-19",
+      "endDate": "2026-12-03",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "강원",
+      "ncsNm": "경영.회계.사무",
+      "jobTrack": "사무",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 14,
+      "srcUrl": "https://k-water.recruiter.co.kr/",
+      "aplyQlfcCn": "□ 연령, 성별, 학력 제한 없음\r\n□ 남자의 경우 병역필 또는 면제자(병역특례 근무중인 자 제외)\r\n□ 우리 공사 인사규정에 의한 결격사유가 없는 자\r\n□ 채용예정일부터 현업 전일근무가 가능한 자",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307226,
+      "orgName": "한전KDN",
+      "orgCode": "C0306",
+      "title": "한전KDN(주) 부산본부 미터링사업팀 AMI 일괄위탁 작업원 모집공고(26-8차)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-12-03",
+      "hireTypeNm": "비정규직",
+      "recrutSeNm": "신입+경력",
+      "workRgnNm": "부산",
+      "ncsNm": "정보통신",
+      "jobTrack": "IT",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 14,
+      "srcUrl": "없음.",
+      "aplyQlfcCn": "1. 일반 : 학력, 연령, 외국어 제한없음\r\n2. 병역 : 병역법 제 76조에서 정한 병역의무 불이행 사실이 없는 자\r\n3. 기타\r\n- 당사 인사규정2.1.4(채용결격사유)에 해당하지 않는자(붙임1 참조)\r\n- 주민등록상 거주지가 부산, 김해, 양산시인 자\r\n4. 직종별 자격(KDN조공)\r\n- AMI통신망 시설공사의 단순업무 지원이 가능한 자\r\n- 운전면허증 소지자(운전가능자)\r\n- 1종 보통 이상의 운전면허 소지 및 화물 차량 운전 가능자",
       "isExcludedHireType": false
     },
     {
@@ -681,6 +753,30 @@
       "daysLeft": 1,
       "srcUrl": ".",
       "aplyQlfcCn": "○ 다음 항목 중 1개 이상의 자격 수준을 갖춘 자\r\n - 정보통신 초급기술자(한국정보통신공사협회 기준)\r\n - 엔지니어링 초급기술자(한국엔지니어링협회 기준)\r\n※ 지원자격 상세기준 붙임1 참조\r\n○ 2026년 12월 1일부터 근무 가능한 자\r\n※ 세부 내용은 채용공고문 내 '3. 지원자격' 참조",
+      "isExcludedHireType": false
+    },
+    {
+      "sn": 307237,
+      "orgName": "근로복지공단",
+      "orgCode": "C0035",
+      "title": "[동해병원] 의료직(약사) 4급 채용 공고",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-30",
+      "hireTypeNm": "정규직",
+      "recrutSeNm": "신입",
+      "workRgnNm": "강원",
+      "ncsNm": "보건.의료",
+      "jobTrack": "보건복지",
+      "totalCount": 1,
+      "eduCondNm": [
+        "학력무관"
+      ],
+      "isHighSchoolTrack": false,
+      "hsTrackDetectedFromText": false,
+      "replImprYn": "N",
+      "daysLeft": 11,
+      "srcUrl": "https://www.comwel.or.kr/recruit/hp/main.do",
+      "aplyQlfcCn": "ㅇ 채용분야 응시자격\r\n- 약사: 약사법상 약사 면허증 소지자\r\n* 모든 전형 응시자격은 응시원서 마감일 기준\r\nㅇ 병역사항: 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자\r\nㅇ 연령요건: 제한없음(단, 임용일 기준 60세 미만(정년)인 자)",
       "isExcludedHireType": false
     },
     {
